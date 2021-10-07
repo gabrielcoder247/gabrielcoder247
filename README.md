@@ -6,7 +6,7 @@
 
 - 🔭 &nbsp; I’m a full stack web Developer, currently looking out for great opportunity. 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying web develpment @microverse.
+- 🎓 &nbsp; Studying web development @microverse.
 - 💼 &nbsp; front-end and backend web developer also an ESL tutor.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
