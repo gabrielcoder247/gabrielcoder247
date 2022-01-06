@@ -14,11 +14,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Ruby | Javascript | Typescript  
+- 💻 &nbsp; Python | Ruby | Javascript | Typescript |  
 - 🌐 &nbsp;  Django | HTML | CSS | JavaScript | Bootstrap | ruby on Rails | 
 - 🛢 &nbsp; Postgre| Firebase | heroku
-- 🔧 &nbsp;  PyCharm | Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | 
+- 🔧 &nbsp;  PyCharm | Visual Studio code | Git |
+
 
 <br>
 
